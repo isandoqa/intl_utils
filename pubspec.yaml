@@ -14,7 +14,7 @@ dependencies:
   http: ">=0.13.0 <2.0.0"
   intl:
     git:
-      url: https://github.com/isandoqa/i18n/tree/main/pkgs/intl
+      url: https://github.com/isandoqa/i18n
   path: ^1.8.0
   petitparser: ">=4.0.0 <7.0.0"
   yaml: ^3.0.0
