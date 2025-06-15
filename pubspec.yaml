@@ -15,7 +15,6 @@ dependencies:
   intl:
     url: https://github.com/isandoqa/i18n.git
     path: pkgs/intl
-    ref: main
   
   petitparser: ">=4.0.0 <7.0.0"
   path: ^1.8.0
